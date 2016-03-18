@@ -18,7 +18,7 @@ if len(ssid) != 6:
     print "SSID should be 6 characters!"
     sys.exit(1)
 
-# The following string represents the hexadecimal values of: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+# The following list represents the hexadecimal values of: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
 hexa = ["30","31","32","33","34","35","36","37","38","39","41","42","43","44","45","46","47","48","49","4A","4B","4C","4D","4E","4F","50","51","52","53","54","55","56","57","58","59","5A"]
 keys = []
 
