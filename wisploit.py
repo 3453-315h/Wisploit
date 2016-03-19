@@ -3,7 +3,6 @@
  Wisploit
 
  Author: styx00
- Version: 1.0
 """
 import sys
 from itertools import product
